@@ -9,7 +9,7 @@ echo'
         <script>
             let age=8;
             if (age>=18){
-                document.write("You are Eligible for voting and vote for tamil desiyam");
+                document.write("You are Eligible for voting");
 
             }else{
                 document.write("You are not Eligible for Voting")
